@@ -1,0 +1,8 @@
+{
+  "name": "fake employee",
+  "salary": 30,
+  "mail": "fake@gmail.com",
+  "position": "fake position",
+  "group": "Automation Infra",
+  "imgUrl": null
+}
